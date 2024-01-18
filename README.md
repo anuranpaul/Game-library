@@ -11,7 +11,7 @@ GameHub: This project is a web application designed to help users explore and or
 ### Link
 https://game-lib-beta.vercel.app/
 
-### Technologies Used
+# Technologies Used
 
 ## Frontend
 - **Forms & Validation:** [React Hook Forms](https://react-hook-form.com/) with [Zod](https://github.com/colinhacks/zod) schema validation.
